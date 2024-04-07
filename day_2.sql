@@ -41,6 +41,7 @@ case first_name
    from actor;
   
   
+<<<<<<< HEAD
    select * from actor ;
    describe actor;  
    
@@ -86,3 +87,7 @@ case first_name
      select district ,count(district) from address group by(district);
      select district , count(district) from address group by(district) having count(*)>9;
    
+=======
+   
+   
+>>>>>>> 60d2b479e83c04bfac00271bad627f8089e29bc2
