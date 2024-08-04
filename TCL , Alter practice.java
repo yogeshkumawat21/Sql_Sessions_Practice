@@ -191,5 +191,5 @@ alter table lct add primary key (sr);
  alter table lct drop primary key ;
  
  -- if u want to change previous column name and datatype then first change the entries data-type then change the column data type ;
- 
+ dsf
    
